@@ -10,6 +10,6 @@
     <a href="/">หน้าแรก</a> | <a href="/about">about</a> | <a href="/contact">contact</a>
     <hr>
     @yield('content')
-    สงวนสิทธิ์ 2021 Wiphaporn
+
 </body>
 </html>
